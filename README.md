@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Software Development**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/jjoslin07?tab=repositories)
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/jjoslin07?tab=repositories)
 
 - 📝 I regularly write articles on [My Blog](www.mylocusofcontrol.com)
 
