@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/jjoslin07?tab=repositories)
 
-- 📝 I regularly write articles on [My Blog](www.mylocusofcontrol.com)
+- 📝 I regularly write articles on [My Blog](http://mylocusofcontrol.com)
 
 - 📫 How to reach me **jjosli2@wgu.edu**
 
