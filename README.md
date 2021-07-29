@@ -2,9 +2,9 @@
 
 - 🌱 I’m currently learning **Software Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jjoslin07?tab=repositories](https://github.com/jjoslin07?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/jjoslin07?tab=repositories)
 
-- 📝 I regularly write articles on [www.mylocusofcontrol.com](www.mylocusofcontrol.com)
+- 📝 I regularly write articles on [My Blog](www.mylocusofcontrol.com)
 
 - 📫 How to reach me **jjosli2@wgu.edu**
 
