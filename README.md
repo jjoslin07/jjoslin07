@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Joseph Joslin</h1>
+<h1 align="center">HI 👋🏼, I'm Joseph Joslin</h1>
 
 - 🌱 I’m currently learning **Software Development**
 
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/jjoslin07?tab=repositories)
+- 👨🏽‍💻 All of my projects are available on [GitHub](https://github.com/jjoslin07?tab=repositories)
 
 - 📝 I regularly write articles on [My Blog](http://mylocusofcontrol.com)
 
