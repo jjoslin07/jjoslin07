@@ -1,6 +1,6 @@
 <h1 align="center">HI 👋🏼, I'm Joseph Joslin</h1>
 
-- 🌱 I’m currently learning **Software Development**
+- 🌱 I’m currently learning ** JAVA **
 
 - 👨🏽‍💻 All of my projects are available on [GitHub](https://github.com/jjoslin07?tab=repositories)
 
