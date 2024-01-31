@@ -1,6 +1,6 @@
 Hello, my name is Joseph and I’m currently making the transition from Distribution and Logistics into the Software Engineering field with a focus in Web Development. I recently graduated from the Open Classrooms Web Developer bootcamp, and I’ve been doing everything I can to improve my skills and gain exposure. I am also an undergrad at WGU for Software Engineering with an expected graduation date of March 2026. I have produced and released content that is currently in use today (see below). Thank you for reviewing my profile!
 
-[![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjoslin07&theme=merko&show_icons=true)](https://github.com/jjoslin07/github-readme-stats)
+[![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjoslin07&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jjoslin07/jjoslin07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
