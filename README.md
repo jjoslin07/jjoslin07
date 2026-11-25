@@ -1,1 +1,7 @@
-"Hello, my name is Joseph. I am a NOC Analyst with a background in logistics who is actively transitioning into Software Engineering and Web Development. I leverage my current experience in enterprise IT alongside hands-on development skills gained from the Open Classrooms Web Developer bootcamp and my ongoing Software Engineering studies at WGU. I am passionate about building practical solutions and have produced content that is currently in active production (see below). Thank you for reviewing my profile!"
+# Joseph Joslin
+
+**NOC Analyst · Software Engineering & Web Development**
+
+I am a NOC analyst with a logistics background, actively transitioning into software engineering and web development. My enterprise IT experience — monitoring and supporting production systems in a network operations environment — is complemented by hands-on development skills gained through the Open Classrooms Web Developer bootcamp and my ongoing Software Engineering studies at Western Governors University (WGU).
+
+I focus on building practical solutions that ship to production, and I am eager to bring both operational rigor and engineering craft to a software team.
