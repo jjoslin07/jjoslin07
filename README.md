@@ -11,7 +11,7 @@ I focus on building practical solutions that ship to production, and I am eager 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjoslin07&hide_border=true&include_all_commits=true&theme=dark" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jjoslin07&hide_border=true&theme=dark" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jjoslin07&hide_border=true&layout=compact&theme=dark" alt="Top languages" />
 </p>
 
